@@ -1,7 +1,9 @@
 # Brand Sentiment — Multi-Source Intelligence & Reputation Analytics Platform
 
 ---
-
+<p align="center">
+  <img src="assets/Brand_Sentiment_Tool.gif" width="900"/>
+</p>
 ##  Overview
 
 **Brand Sentiment** is a full-stack analytics platform designed to help organizations understand how their brand is perceived across the digital landscape.
