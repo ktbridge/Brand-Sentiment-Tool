@@ -31,6 +31,7 @@ This project is built as a **scalable framework** that can be adapted for any co
 > The included examples (e.g., cable TV and social media video services) are demonstration use cases only.
 
 At its core, Brand Sentiment transforms fragmented online feedback into structured intelligence for better business decisions.
+[Live App](https://brand-sentiment.streamlit.app/)
 
 ---
 
@@ -226,4 +227,10 @@ client_secret=your_reddit_client_secret
 user_agent=your_reddit_user_agent
 
 
-Note: The source code for this project is hosted in a private repository to protect proprietary algorithms and data structures. For inquiries regarding the codebase, please contact the author.
+
+
+
+
+
+
+## Note: The source code for this project is hosted in a private repository to protect proprietary algorithms and data structures. For inquiries regarding the codebase, please contact the author.
