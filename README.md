@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/Brand_Sentiment_Tool.gif" width="900"/>
+  <img src="assets/demo.gif" width="900"/>
 </p>
 
 ---
