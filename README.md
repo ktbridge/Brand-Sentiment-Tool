@@ -226,7 +226,7 @@ client_id=your_reddit_client_id
 client_secret=your_reddit_client_secret
 user_agent=your_reddit_user_agent
 
-```md id="close1"
+```
 
 
 ## Note: The source code for this project is hosted in a private repository to protect proprietary algorithms and data structures. For inquiries regarding the codebase, please contact the author.
